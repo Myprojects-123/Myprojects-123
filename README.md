@@ -2,13 +2,9 @@
 
 ## About Me
 
-Focused on learning and building projects with:
+Passionate about working with data using Microsoft Excel, SQL (MySQL), and Power BI.
 
-- Microsoft Excel
-- SQL (MySQL)
-- Power BI
-
-I enjoy exploring data, creating dashboards, and presenting meaningful business insights.
+I enjoy cleaning data, writing SQL queries, building interactive dashboards, and turning data into meaningful insights through practical projects.
 
 ## Skills
 
@@ -18,13 +14,16 @@ I enjoy exploring data, creating dashboards, and presenting meaningful business 
 - Data Cleaning
 - Data Visualization
 - Dashboard Development
-- Git & GitHub
 
-## Featured Project
+## Projects
 
-🔗 **Power BI, SQL & Excel Projects**
+📊 Power BI, SQL & Excel Projects
 
-https://github.com/Myprojects-123/Power-BI-SQL-Excel-projects
+- 🍕 Pizza Sales Dashboard
+  https://github.com/Myprojects-123/Power-BI-SQL-Excel-projects/tree/main/Pizza-Sales-Dashboard
+
+- 🛒 Blinkit Sales Dashboard
+  https://github.com/Myprojects-123/Power-BI-SQL-Excel-projects/tree/main/Blinkit-Sales-Dashboard
 
 ## Tools
 
@@ -32,8 +31,8 @@ https://github.com/Myprojects-123/Power-BI-SQL-Excel-projects
 - MySQL
 - Power BI
 
-## Contact
+## Connect with me
 
 📧 Email: savitasurange1@gmail.com
-
+   Git hub: https://github.com/Myprojects-123
 
