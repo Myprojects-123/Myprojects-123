@@ -36,5 +36,4 @@ https://github.com/Myprojects-123/Power-BI-SQL-Excel-projects
 
 📧 Email: savitasurange1@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/savita-surange-058266320
 
