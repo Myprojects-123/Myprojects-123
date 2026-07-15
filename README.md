@@ -1,4 +1,4 @@
-# Hi, I'm Savita Suarnge
+# Hi, I'm Savita Surange
 
 ## About Me
 
