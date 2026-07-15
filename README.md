@@ -1,4 +1,6 @@
-# Hi, I'm Savita Surange
+# Hi, I'm Savita Surange 👋
+
+Excel | SQL | Power BI | Data Visualization
 
 ## About Me
 
