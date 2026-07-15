@@ -4,7 +4,9 @@
 
 Passionate about working with data using Microsoft Excel, SQL (MySQL), and Power BI.
 
-I enjoy cleaning data, writing SQL queries, building interactive dashboards, and turning data into meaningful insights through practical projects.
+I build practical projects focused on data cleaning, SQL querying, dashboard creation, and data visualization to generate meaningful business insights.
+
+Currently expanding my skills by creating real-world projects and continuously improving my analytical abilities.
 
 ## Skills
 
